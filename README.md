@@ -12,7 +12,7 @@ The project combines **time-series feature engineering, machine learning, foreca
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** Coming soon
+🔗 **[Live Demo](https://demand-iq-wvefbrqclppoqmpzfezn2x.streamlit.app/)**
 
 ---
 
