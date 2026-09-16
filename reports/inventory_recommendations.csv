@@ -1,0 +1,10 @@
+metric,value
+Average Daily Demand,774251.67246471
+Latest ML Forecast,729977.94
+Expected Daily Demand,743260.0597394129
+Demand Uncertainty,89524.11341449234
+Lead Time Days,7
+Safety Stock,390816.59172317554
+Reorder Point,5593637.009899066
+Recommended Inventory,10796457.428074956
+Stockout Risk,LOW

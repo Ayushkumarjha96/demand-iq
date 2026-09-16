@@ -1,0 +1,33 @@
+{
+    "target": "total_sales",
+    "features": [
+        "total_promotion",
+        "active_stores",
+        "product_families",
+        "oil_price",
+        "is_holiday",
+        "year",
+        "month",
+        "day",
+        "day_of_week",
+        "week_of_year",
+        "is_weekend",
+        "sales_lag_1",
+        "sales_lag_7",
+        "sales_lag_14",
+        "sales_lag_28",
+        "sales_rolling_7",
+        "sales_rolling_14",
+        "sales_rolling_28",
+        "quarter",
+        "day_of_year",
+        "week_of_month",
+        "promotion_ratio"
+    ],
+    "best_model": "XGBoost",
+    "split_ratio": 0.8,
+    "train_start": "2013-01-29",
+    "train_end": "2016-09-16",
+    "test_start": "2016-09-19",
+    "test_end": "2017-08-15"
+}
